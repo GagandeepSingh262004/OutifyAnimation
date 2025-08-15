@@ -55,6 +55,9 @@ body {
 
 /* Large tablets (1024px and below) */
 @media (max-width: 1024px) {
+  body {
+    overflow: hidden;
+  }
   .image-container {
     width: 250px;
     height: 420px;
@@ -75,6 +78,9 @@ body {
 
 /* Tablets (768px and below) */
 @media (max-width: 768px) {
+  body {
+    overflow: hidden;
+  }
   .image-container {
     width: 220px;
     height: 360px;
@@ -95,6 +101,9 @@ body {
 
 /* Mobile (480px and below) */
 @media (max-width: 480px) {
+  body {
+    overflow: hidden;
+  }
   .image-container {
     width: 180px;
     height: 300px;

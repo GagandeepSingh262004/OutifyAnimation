@@ -114,7 +114,6 @@ t4.fromTo(
   )
   .to(".image16", { opacity: 0, duration: 0.7, ease: "power2.in" });
 
-// New logo timeline (t5)
 let t5 = gsap.timeline({ paused: true });
 t5.fromTo(
   ".logo",
