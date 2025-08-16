@@ -36,9 +36,14 @@ body {
   position: absolute;
   top: 0;
   left: 0;
-  border: 3px solid white;
 }
 
+.image15,
+.image11,
+.image7,
+.image3 {
+  border: 3px solid white;
+}
 .logo-container {
   position: absolute;
   top: 150px;
