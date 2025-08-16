@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded", () => {
       {
         opacity: 0.7,
         filter: "blur(2px)",
-        scale: 1.1,
+        scale: 1.17,
         duration: 1.2,
         ease: "power2.out",
       },
@@ -31,8 +31,8 @@ document.addEventListener("DOMContentLoaded", () => {
       { opacity: 1, scale: 1.05, duration: 1.2, ease: "power2.out" },
       "-=0.6"
     )
-    .to(".image2", { opacity: 0, duration: 0.8, ease: "power2.in" }, "-=0.6")
     .to(".image1", { opacity: 0, duration: 1, ease: "power2.in" }, "-=0.6")
+    .to(".image2", { opacity: 0, duration: 0.8, ease: "power2.in" }, "-=0.6")
 
     .to(".image3", { opacity: 0, duration: 0.7, ease: "power2.in" }, "-=0.6");
   // .fromTo(
@@ -61,7 +61,7 @@ document.addEventListener("DOMContentLoaded", () => {
       {
         opacity: 0.7,
         filter: "blur(2px)",
-        scale: 1.1,
+        scale: 1.17,
         duration: 1.2,
         ease: "power2.out",
       },
@@ -103,7 +103,7 @@ document.addEventListener("DOMContentLoaded", () => {
       {
         opacity: 0.7,
         filter: "blur(2px)",
-        scale: 1.1,
+        scale: 1.17,
         duration: 1.2,
         ease: "power2.out",
       },
@@ -146,7 +146,7 @@ document.addEventListener("DOMContentLoaded", () => {
       {
         opacity: 0.7,
         filter: "blur(2px)",
-        scale: 1.1,
+        scale: 1.17,
         duration: 1.2,
         ease: "power2.out",
       },
