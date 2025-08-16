@@ -31,12 +31,12 @@ body {
 .images {
   height: 500px;
   width: 400px;
-  border-radius: 30px;
+  /* border-radius: 30px; */
   object-fit: cover;
   position: absolute;
   top: 0;
   left: 0;
-  border: 10px solid white;
+  border: 4.7px solid white;
 }
 
 .logo-container {
