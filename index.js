@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", () => {
       { opacity: 0, scale: 0 },
       {
         opacity: 0.7,
-        filter: "blur(5px)",
+        filter: "blur(3px)",
         scale: 1.1,
         duration: 1.2,
         ease: "power2.out",
@@ -58,7 +58,7 @@ document.addEventListener("DOMContentLoaded", () => {
       { opacity: 0, scale: 0 },
       {
         opacity: 0.7,
-        filter: "blur(5px)",
+        filter: "blur(3px)",
         scale: 1.1,
         duration: 1.2,
         ease: "power2.out",
@@ -99,7 +99,7 @@ document.addEventListener("DOMContentLoaded", () => {
       { opacity: 0, scale: 0 },
       {
         opacity: 0.7,
-        filter: "blur(5px)",
+        filter: "blur(3px)",
         scale: 1.1,
         duration: 1.2,
         ease: "power2.out",
