@@ -180,7 +180,7 @@ document.addEventListener("DOMContentLoaded", () => {
     { opacity: 1, y: 0 },
     {
       opacity: 1,
-      scale: 3.5,
+      scale: 2,
       y: -200,
       x: -100,
       duration: 1.8,
